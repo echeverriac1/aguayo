@@ -1,0 +1,120 @@
+.pink{
+    color: #FE7676;
+}
+
+.catalog p{
+    margin:0;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 5.44445px;
+}
+
+.catalog h1{
+    margin-top: 100px;
+    margin-bottom: 30px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 55px;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.products{
+    margin-top:16px;
+    margin-bottom: 100px;
+
+}
+
+.presentation{
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+.name p{
+    margin: 0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 26px;
+    font-size: 18px;
+    letter-spacing: -0.6px;
+    color: #000000;
+}
+
+.circle{
+    background-color: black;
+    width: 47px;
+    height: 47px;
+    border-radius: 50px;
+    float: right;
+}
+
+.circle p{
+    color: #FFFFFF;
+    margin:10px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 21.45px;
+    text-transform: uppercase;
+}
+
+.description p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
+    letter-spacing: -0.533333px;
+
+    color: #000000;
+    margin: 0;
+}
+
+.price{
+    float: right;
+}
+
+.price p{
+    font-family: 'Roboto', 'thin';
+    font-style: normal;
+    font-weight: 200;
+    line-height: 56px;
+    font-size: 36.5239px;
+    letter-spacing: -2.52015px;
+    text-transform: uppercase;
+
+    color: #000000;
+    float: right;
+    margin: 0px;
+}
+
+.photo{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+
+.profile{
+    
+    height:55px;
+    width:55px;
+    border-radius: 50px;
+}
+
+hr {
+    width: auto;
+    border: 1.2078px solid #000000;
+}

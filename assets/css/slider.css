@@ -1,0 +1,26 @@
+.slider{
+    background-image: url('../img/bitmap-banner.png');
+    width: auto;
+    height: 450px;
+}
+
+.text-section{
+    padding-top:91px;
+}
+
+.text-section p{
+    margin:0px 0px 5px 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: max-content;
+    background-color: white;
+    color: black;
+    display: table;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 64px;
+    font-size: 60px;
+    text-transform: uppercase;
+}
